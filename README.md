@@ -11,7 +11,7 @@ NEIRS short for Nepal Educational Institutes Ranking system is an open source, i
 - [Reason behind NEIRS](#reason-behind-neirs)
 - [Introduction](#introduction)
 - [Current ranking situtation for nepali institutes](#current-ranking-situation-for-nepali-eduacational-institute)
-- [Ranking system](#ranking-system)
+- [Featuers](#https://github.com/alsongarbuja/NEIRS/blob/main/FEATURES.md)
 - [Tech stack](#tech-stack)
   - [Frontend](#frontend)
   - [Backend](#backend)
@@ -71,25 +71,6 @@ E.g: [Edusanjal's blog post](https://edusanjal.com/blog/rankings-of-universities
 But one thing I noticed looking into all those ranking system they are inconsistent. For example in the times higher education the **KU** is ranked top in Nepal while in webometric **TU** is ranked top among Nepali institutes. _(which can be due to different metrics they use to rank them)_
 
 Another thing is only few universtities around 8 or 9 are listed in those systems **(expect for webometrics which suprisingly list over 30 institutes, kudos to them)**. It is due to fact that universities and colleges must be submitted to those systems and most likely nobody is doing that.
-
-## Ranking system
-
-The `Ranking system` core of the project, will be an algorithm that calculates the score for each institutes listed in the system using various metrics and data points.
-
-As of now, while I am planning out the project these are some metrics to rank institutes:
-
-1. **Teaching**: Score the teaching cabailities of the institutes.
-2. **Facilities**: Score the facilities they provide to support their education like labs, internets, etc
-3. **Ratios**: Score the facilities on the basis of ratios in different sectors like male to female student ratio, graduate to non graduate ratio, etc
-4. **Capaicty**: Score the capacity like number of teachers per students, classes held per semester, etc
-5. **Academic**: Score them based on the available courses and the performance of students in them.
-6. **Popularity**: Score based on the popularity of the institution _(only minor impact overall)_
-
-For data and surveys, here are some ideas:
-
-- Google form survey
-- Google ratings
-- Usage of AI/ML for collecting resources of the insititutes
 
 ## Tech stack
 
