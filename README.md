@@ -11,7 +11,7 @@ NEIRS short for Nepal Educational Institutes Ranking system is an open source, i
 - [Reason behind NEIRS](#reason-behind-neirs)
 - [Introduction](#introduction)
 - [Current ranking situtation for nepali institutes](#current-ranking-situation-for-nepali-eduacational-institute)
-- [Featuers](#https://github.com/alsongarbuja/NEIRS/blob/main/FEATURES.md)
+- [Featuers](https://github.com/alsongarbuja/NEIRS/blob/main/FEATURES.md)
 - [Tech stack](#tech-stack)
   - [Frontend](#frontend)
   - [Backend](#backend)
