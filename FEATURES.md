@@ -6,9 +6,9 @@
 
 The overall Institutional Ranking will be divided into three major, weighted components to provide a holistic score:
 
-- **Academic Ranking (Performance & Quality)**: This component consists of criteria directly related to the academic performance and educational quality of the institute.
-- **Infrastructure Ranking (Facilities & Resources)**: This component is made up of criteria related to the physical and technological infrastructure that supports learning.
-- **Other Ranking (Support & Opportunity)**: This component groups essential criteria that fall outside of strictly academic performance and core physical infrastructure, focusing on student support, opportunities, and overall capacity.
+- [**Academic Ranking (Performance & Quality)**](https://github.com/alsongarbuja/NEIRS/blob/main/RANKING.md#academic-ranking-performance--quality): This component consists of criteria directly related to the academic performance and educational quality of the institute.
+- [**Infrastructure Ranking (Facilities & Resources)**](https://github.com/alsongarbuja/NEIRS/blob/main/RANKING.md#infrastructure-ranking-facilities--resources): This component is made up of criteria related to the physical and technological infrastructure that supports learning.
+- [**Other Ranking (Support & Opportunity)**](https://github.com/alsongarbuja/NEIRS/blob/main/RANKING.md#other-ranking-support--opportunity): This component groups essential criteria that fall outside of strictly academic performance and core physical infrastructure, focusing on student support, opportunities, and overall capacity.
 
 2. Rating Professors
 
